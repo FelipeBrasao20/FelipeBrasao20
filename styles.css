@@ -2,24 +2,9 @@ html, body {
    min-height: 100vh;
    margin: 0;
    padding: 0;
-   text-align: center;
+   text-align:center; 
+   color: rgb(126, 9, 9); 
 }
 
-body h1 {
-    padding-top: 20px;
-    text-transform: uppercase;
-}
 
-button {
-    background-color: brown;
-    padding: 10px;
-    font-size: 1.2rem;
-    color: white;
-    border: none;
-    opacity: .75;
-}
-
-button:hover {
-    opacity: 1;
-}
-
+   
